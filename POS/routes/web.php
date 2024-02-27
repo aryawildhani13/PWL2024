@@ -7,7 +7,6 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\UserController;
 
 Route::get('/home', [HomeController::class, 'index'])->name('home');
-
 Route::get('/penjualan', [PenjualanController::class, 'showPOS'])->name('penjualan.pos');
 
 

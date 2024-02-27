@@ -25,8 +25,6 @@ Route :: get('/', [HomeController::class, 'sd']);
 Route :: get('/about', [AboutController::class, 'about']);
 
 Route::get('/articles/{artId}', [ArticleController::class, 'show']);
-
-
 Route::get('/greeting', [WelcomeController::class,
 'greeting']);
 
