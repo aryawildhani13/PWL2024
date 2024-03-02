@@ -13,8 +13,8 @@ return new class extends Migration
     {
         Schema::create('m_level', function (Blueprint $table) {
             $table->id();
-            $table->string('level_id',10);
-            $table->string('level_nama',100);
+            $table->unsignedBigInteger('level_id')->index(); // Tambahkan indeks pada kolom level_id
+            $table->string('level_nama', 100);
             $table->timestamps();
         });
     }
