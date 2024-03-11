@@ -114,8 +114,8 @@ class UserController extends Controller
 
         // ==========================================
         
-        $user = UserModel::all();
-        return view('user', ['data' => $user]);
+        $user = UserModel::with('level')->get();
+        return view ('user', ['data' => $user]);
   
         
         // $data = [
@@ -169,4 +169,6 @@ class UserController extends Controller
         $user->delete();
         return redirect('/user');
     }
+
+
 }
