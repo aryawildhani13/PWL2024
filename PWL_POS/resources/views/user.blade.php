@@ -5,12 +5,12 @@
 </head>
 <body>
     <h1>Data User</h1>
-    {{-- <table border="1" cellpadding="2" cellspacing="0">
+    <table border="1" cellpadding="2" cellspacing="0">
         <tr>
             <th>ID</th>
             <th>Username</th>
             <th>Nama</th>
-            <th>Level Pengguna</th>
+            <th>ID Level Pengguna</th>
         </tr>
         @foreach ($data as $u)
             <tr>
@@ -20,12 +20,12 @@
                 <td>{{ $data->level_id }}</td>
             </tr>
         @endforeach
-    </table> --}}
-    <table border="1" cellpadding="2" cellspacing="0">
+    </table>
+    {{-- <table border="1" cellpadding="2" cellspacing="0">
         <tr>
             <th>Jumlah Pengguna</th>
         </tr>
         <td>{{ $data }}</td>
-    </table>
+    </table> --}}
 </body>
 </html>
