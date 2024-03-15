@@ -34,7 +34,7 @@
 ![Praktikum 2 2 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2a02d4d1-9f17-4c9c-904b-1a99190358ce)
 
 
-Praktikum 2.3
+## Praktikum 2.3
 
 2.Simpan kode program Langkah 1. Kemudian jalankan pada browser 
 ![Praktikum 2 3 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/53f69b6d-042f-4f25-810d-77d21810b744)
@@ -55,7 +55,7 @@ Praktikum 2.3
 7. Simpan kode program Langkah 6. Kemudian jalankan pada browser
 ![Praktikum 2 4 (7)](https://github.com/aryawildhani13/PWL2024/assets/91382582/52872219-ef1f-464d-903b-88622d9883c4)
 
-#Praktikum 2.4.1
+## Praktikum 2.4.1
 
 9.Simpan kode program Langkah 8. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user
 ![Praktikum 2 4 1 (9)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2057aad4-f4ae-4251-b8b8-52511f2c2d7f)
