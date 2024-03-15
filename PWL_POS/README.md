@@ -44,7 +44,8 @@ Praktikum 2.3
 
 ## Praktikum 2.4
 
-3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser 
+3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser
+
 ![Praktikum 2 4 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/c23dd063-93a8-4710-b8fe-a6aa385765d4)
 
 5. Simpan kode program Langkah 4. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user
