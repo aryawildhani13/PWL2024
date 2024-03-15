@@ -1,4 +1,4 @@
-#Praktikum 1#
+#Praktikum-1#
 
 3.Simpan kode program Langkah 1 dan 2, dan jalankan perintah web server.
 ![Praktikum 1 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/81971cce-9188-4fd2-9f4c-3bf38ed2f8dc)
