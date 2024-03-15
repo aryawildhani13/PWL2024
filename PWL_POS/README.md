@@ -71,10 +71,12 @@ Praktikum 2.3
 
 ## Praktikum 2.5
 
-2. Simpan kode program Langkah 1. Kemudian jalankan pada browser 
+2. Simpan kode program Langkah 1. Kemudian jalankan pada browser
+   
 ![Praktikum 2 5 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/e75d1c54-1593-4fe6-b6fd-6a33e42f7d22)
 
-4. Simpan kode program Langkah 3. Kemudian jalankan pada browser 
+4. Simpan kode program Langkah 3. Kemudian jalankan pada browser
+   
 ![Praktikum 2 5 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/d6397da4-66a8-4446-a554-fdc41805bdcb)
 
 ## Praktikum 2.6
