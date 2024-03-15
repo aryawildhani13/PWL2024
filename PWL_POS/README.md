@@ -3,12 +3,12 @@
 3.Simpan kode program Langkah 1 dan 2, dan jalankan perintah web server.
 ![Praktikum 1 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/81971cce-9188-4fd2-9f4c-3bf38ed2f8dc)
 
-6.Simpan kode program Langkah 4 dan 5. Kemudian jalankan pada browser
+6. Simpan kode program Langkah 4 dan 5. Kemudian jalankan pada browser
 ![Praktikum 1 (5)](https://github.com/aryawildhani13/PWL2024/assets/91382582/438fd778-ca18-4d4a-a346-247bcfecde38)
 
 #Praktikum 2.1
 
-3.Simpan kode program Langkah 1 dan 2, dan jalankan perintah web server.
+3. Simpan kode program Langkah 1 dan 2, dan jalankan perintah web server.
 ![Praktikum 2 1 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2eeb6ac1-0e57-4737-8b7c-042f1acfff95)
 
 4. Simpan kode program Langkah 4. Kemudian jalankan pada browser
@@ -37,7 +37,7 @@ Praktikum 2.3
 2.Simpan kode program Langkah 1. Kemudian jalankan pada browser 
 ![Praktikum 2 3 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/53f69b6d-042f-4f25-810d-77d21810b744)
 
-4.Buat agar jumlah script pada langkah 1 bisa tampil pada halaman browser, sebagai contoh bisa lihat gambar di bawah ini dan ubah script pada file view supaya bisa muncul datanya
+4. Buat agar jumlah script pada langkah 1 bisa tampil pada halaman browser, sebagai contoh bisa lihat gambar di bawah ini dan ubah script pada file view supaya bisa muncul datanya
 ![Praktikum 2 3 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/5b90a196-608f-4c26-84ed-cdf52208d815)
 
 #Praktikum 2.4
@@ -71,7 +71,7 @@ Praktikum 2.3
 2. Simpan kode program Langkah 1. Kemudian jalankan pada browser 
 ![Praktikum 2 5 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/e75d1c54-1593-4fe6-b6fd-6a33e42f7d22)
 
-4.Simpan kode program Langkah 3. Kemudian jalankan pada browser 
+4. Simpan kode program Langkah 3. Kemudian jalankan pada browser 
 ![Praktikum 2 5 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/d6397da4-66a8-4446-a554-fdc41805bdcb)
 
 #Praktikum 2.6
