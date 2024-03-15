@@ -40,6 +40,7 @@ Praktikum 2.3
 ![Praktikum 2 3 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/53f69b6d-042f-4f25-810d-77d21810b744)
 
 4. Buat agar jumlah script pada langkah 1 bisa tampil pada halaman browser, sebagai contoh bisa lihat gambar di bawah ini dan ubah script pada file view supaya bisa muncul datanya
+
 ![Praktikum 2 3 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/5b90a196-608f-4c26-84ed-cdf52208d815)
 
 ## Praktikum 2.4
@@ -89,6 +90,7 @@ Praktikum 2.3
 ![Praktikum 2 6 (7)](https://github.com/aryawildhani13/PWL2024/assets/91382582/8e2df701-ad3a-4537-8d9c-1a43e93ba1ea)
 
 10. Simpan kode program Langkah 8 dan 9. Kemudian jalankan link localhost:8000/user/tambah atau localhost/PWL_POS/public/user/tambah pada browser dan input formnya dan simpan
+
 ![Praktikum 2 6 (10)](https://github.com/aryawildhani13/PWL2024/assets/91382582/3e011eb9-9c00-4388-ae06-00b47d36d925)
 
 17. Simpan kode program Langkah 15 dan 16. Kemudian jalankan link localhost:8000/user/ubah/1 atau localhost/PWL_POS/public/user/ubah/1 pada browser dan ubah input formnya dan klik tombol ubah
