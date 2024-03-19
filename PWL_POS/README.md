@@ -1,66 +1,57 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Praktikum 1
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+3. ![Praktikum 1 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/81971cce-9188-4fd2-9f4c-3bf38ed2f8dc)
+5. ![Praktikum 1 (5)](https://github.com/aryawildhani13/PWL2024/assets/91382582/438fd778-ca18-4d4a-a346-247bcfecde38)
 
-## About Laravel
+Praktikum 2.1
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+3. ![Praktikum 2 1 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2eeb6ac1-0e57-4737-8b7c-042f1acfff95)
+4 ![Praktikum 2 1 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/721a1a2c-2752-4306-aaee-7d60d6678aec)
+5. ![Praktikum 2 1 (5)](https://github.com/aryawildhani13/PWL2024/assets/91382582/0072fb43-7d96-4a6b-b76a-52a056cc0e64)
+9. ![Praktikum 2 1 (9)](https://github.com/aryawildhani13/PWL2024/assets/91382582/433d0f2f-ba91-4db7-b2c7-20ffeee2dcc3)
+11. ![Praktikum 2 1 (11)](https://github.com/aryawildhani13/PWL2024/assets/91382582/d161aa7e-dff8-4557-a279-5415bd8952bd)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Praktikum 2.2
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+2. ![Praktikum 2 2 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/10286b4f-b48d-4c04-bf2b-ac578883f89d)
+4. ![Praktikum 2 2 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2a02d4d1-9f17-4c9c-904b-1a99190358ce)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Praktikum 2.3
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+2. ![Praktikum 2 3 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/53f69b6d-042f-4f25-810d-77d21810b744)
+4. ![Praktikum 2 3 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/5b90a196-608f-4c26-84ed-cdf52208d815)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Praktikum 2.4
 
-## Laravel Sponsors
+3. ![Praktikum 2 4 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/c23dd063-93a8-4710-b8fe-a6aa385765d4)
+5. ![Praktikum 2 4 (5)](https://github.com/aryawildhani13/PWL2024/assets/91382582/bbed0e77-9e06-4c99-8c24-b328fd65bd8c)
+7. ![Praktikum 2 4 (7)](https://github.com/aryawildhani13/PWL2024/assets/91382582/52872219-ef1f-464d-903b-88622d9883c4)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Praktikum 2.4.1
 
-### Premium Partners
+9. ![Praktikum 2 4 1 (9)](https://github.com/aryawildhani13/PWL2024/assets/91382582/2057aad4-f4ae-4251-b8b8-52511f2c2d7f)
+11. ![Praktikum 2 4 1 (11)](https://github.com/aryawildhani13/PWL2024/assets/91382582/d1bcc305-3893-4737-adf5-fb442123293c)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Praktikum 2.4.2
 
-## Contributing
+9. ![Praktikum 2 4 2 (9)](https://github.com/aryawildhani13/PWL2024/assets/91382582/e82ede60-ff48-474b-a986-0a9d1836e4d2)
+11. ![Praktikum 2 4 2 (11)](https://github.com/aryawildhani13/PWL2024/assets/91382582/ceb86a48-fddc-426d-8aaa-09608ca0a5f2)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Praktikum 2.5
 
-## Code of Conduct
+2. ![Praktikum 2 5 (2)](https://github.com/aryawildhani13/PWL2024/assets/91382582/e75d1c54-1593-4fe6-b6fd-6a33e42f7d22)
+4. ![Praktikum 2 5 (4)](https://github.com/aryawildhani13/PWL2024/assets/91382582/d6397da4-66a8-4446-a554-fdc41805bdcb)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Praktikum 2.6
 
-## Security Vulnerabilities
+3. ![Praktikum 2 6 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/e3f1b1af-9187-46b3-b399-d53a06920b04)
+7. ![Praktikum 2 6 (7)](https://github.com/aryawildhani13/PWL2024/assets/91382582/8e2df701-ad3a-4537-8d9c-1a43e93ba1ea)
+10. ![Praktikum 2 6 (10)](https://github.com/aryawildhani13/PWL2024/assets/91382582/3e011eb9-9c00-4388-ae06-00b47d36d925)
+17. ![Praktikum 2 6 (17)](https://github.com/aryawildhani13/PWL2024/assets/91382582/35ec7770-5bb1-4046-a946-0da4038ae3df)
+20. ![Praktikum 2 6 (20)](https://github.com/aryawildhani13/PWL2024/assets/91382582/1e13242a-0ab2-45b9-b668-00051a4e1c5b)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Praktikum 2.7
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+3. ![Praktikum 2 7 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/ab1ecfd7-e848-4245-b0ef-c1b168a92fd6)
+6. ![Praktikum 2 7 (6)](https://github.com/aryawildhani13/PWL2024/assets/91382582/b8f3acea-2114-477d-ba25-e4f0f2a79a8a)
