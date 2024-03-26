@@ -45,7 +45,7 @@
 @stop
 {{-- Add common Javascript/Jquery code --}}
 @push('js')
-    <script src="https://cdn.datatables.net/2.0.3/js/dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
 @endpush
 @stack('scripts')
 {{-- Add common CSS customizations --}}

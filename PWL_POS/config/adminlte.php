@@ -322,15 +322,22 @@ return [
             'label' => 4,
             'label_color' => 'success',
         ],
+        ['header' => 'Master'],
         [
-            'text' => 'Manage Kategori',
+            'text' => 'Kategori',
             'url' => 'kategori',
-            'icon' => 'far fa-fw fa-file',
-            'label' => 4,
-            'label_color' => 'success',
+            'icon' => 'fas fa-fw fa-book',
         ],
-
-
+        [
+            'text' => 'Level',
+            'url' => 'level',
+            'icon' => 'fas fa-fw fa-layer-group',
+        ],
+        [
+            'text' => 'User',
+            'url' => 'user',
+            'icon' => 'fas fa-fw fa-user',
+        ],
         ['header' => 'account_settings'],
         [
             'text' => 'profile',

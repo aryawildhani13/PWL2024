@@ -2,13 +2,15 @@
 
 namespace App\Http\Controllers;
 
+use App\DataTables\UserModelDataTable;
+use App\Http\Requests\StoreUserRequest;
 use App\Models\UserModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
 class UserController extends Controller
 {
-    public function index() {
+    public function index(UserModelDataTable $datatable) {
         
         // $data = [
         //     'level_id' => 2,
@@ -114,8 +116,8 @@ class UserController extends Controller
 
         // ==========================================
         
-        $user = UserModel::with('level')->get();
-        return view ('user', ['data' => $user]);
+        // $user = UserModel::with('level')->get();
+        // return view ('user', ['data' => $user]);
   
         
         // $data = [
@@ -134,27 +136,25 @@ class UserController extends Controller
         
         // UserModel::insert($data);
 
+        return $datatable->render('user.index');
+
+
     }
-    public function tambah() {
-        return view('user_tambah');
+    public function create() {
+        return view('user.create');
     }
 
-    public function tambah_simpan(Request $request) {
-        UserModel::create([
-            'level_id' => $request->level_id,
-            'username' => $request->username,
-            'nama' => $request->nama,
-            'password' => Hash::make('$request->password'), // ??
-        ]);
+    public function store(StoreUserRequest $request) {
+        UserModel::create($request->validated());
         return redirect('/user');
     }
 
-    public function ubah($id) {
+    public function edit($id) {
         $user = UserModel::find($id);
-        return view('user_ubah', ['data' => $user]);
+        return view('user.edit', ['data' => $user]);
     }
 
-    public function ubah_simpan(Request $request, $id) {
+    public function update(Request $request, $id) {
         $user = UserModel::find($id);
         $user->username = $request->username;
         $user->nama = $request->nama;
@@ -164,7 +164,7 @@ class UserController extends Controller
         return redirect('/user');
     }
 
-    public function hapus($id) {
+    public function destroy($id) {
         $user = UserModel::find($id);
         $user->delete();
         return redirect('/user');
