@@ -106,4 +106,42 @@
 ![Praktikum 2 7 (3)](https://github.com/aryawildhani13/PWL2024/assets/91382582/ab1ecfd7-e848-4245-b0ef-c1b168a92fd6)
 6. Simpan kode program Langkah 4 dan 5. Kemudian jalankan link pada browser
 ![Praktikum 2 7 (6)](https://github.com/aryawildhani13/PWL2024/assets/91382582/b8f3acea-2114-477d-ba25-e4f0f2a79a8a)
->>>>>>> 99ef209d16c2bb9cb8bd621956a82002dc6ecb9a
+
+
+# Pertemuan 5 - Blade View, Web Templating(AdminLTE), Datatables
+
+## Praktikum 1
+
+1. ![Praktikum 1](https://github.com/aryawildhani13/PWL2024/assets/91382582/ddc686e2-3523-4f42-83c8-c41084673adc)
+
+## Praktikum 2
+
+1. ![Praktikum 2](https://github.com/aryawildhani13/PWL2024/assets/91382582/cdb4bbe6-406c-4463-b864-07faf260ccdb)
+2. ![Praktikum 2 Hasil Dari Isi Manual](https://github.com/aryawildhani13/PWL2024/assets/91382582/94f2771f-db9d-40c3-8ba1-9404364e17e4)
+3. ![Praktikum 2 Isi Databse Manual](https://github.com/aryawildhani13/PWL2024/assets/91382582/06c6bae4-e9f9-4dd0-80be-a068578cc32d)
+   
+
+## Praktikum 3
+
+1. ![Praktikum 3 Tambah](https://github.com/aryawildhani13/PWL2024/assets/91382582/0b3c7836-ade2-4a6c-8771-0d954b0aabdc)
+2. ![Praktikum 3 Halaman Kategori](https://github.com/aryawildhani13/PWL2024/assets/91382582/049bde63-fa41-48d1-9d89-15380383ff6d)
+
+## Tugas 
+
+1. ![Tugas 1 Tambah Kategori](https://github.com/aryawildhani13/PWL2024/assets/91382582/07d13fde-94b8-494e-9416-6508160e5be6)
+2. ![Tugas 2 Tambah Menu Navbar](https://github.com/aryawildhani13/PWL2024/assets/91382582/5e2e76c1-7326-4492-9c60-9a7b90f047eb)
+3. ![Tugas 3 Edit Form](https://github.com/aryawildhani13/PWL2024/assets/91382582/84757ebe-4c12-4975-877d-77755c63fa74)
+   ![Tugas 3 Edit](https://github.com/aryawildhani13/PWL2024/assets/91382582/1502d799-67f1-4633-b683-ecd59b1ff40d)
+   
+4 dan 5 ![Tugas 4 dan 5 Controller](https://github.com/aryawildhani13/PWL2024/assets/91382582/d92e0816-f4dd-4523-b0af-d6fe493745b2)
+
+
+
+
+
+
+
+
+
+
+
