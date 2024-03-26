@@ -4,6 +4,6 @@
     <form action="{{ url('kategori/delete', [$kategori_id]) }}" method="post" class="d-flex align-items-center m-0">
         @csrf
         @method('DELETE')
-        <button class="btn btn-sm btn-danger">Delete</button>
+        <button class="btn btn-sm btn-danger ml-2">Delete</button>
     </form>
 </div>

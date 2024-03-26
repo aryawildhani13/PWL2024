@@ -9,7 +9,7 @@
         <div class="card">
             <div class="card-header d-flex gap-3 align-items-center">
                 <h3 class="card-title">Daftar Kategori</h3>
-                <a href="{{ url('kategori/create') }}" class="btn btn-primary">Tambah Kategori</a>
+                <a href="{{ url('kategori/create') }}" class="btn btn-primary ml-2">Tambah Kategori</a>
             </div>
             <div class="card-body">{{ $dataTable->table() }}</div>
         </div>
