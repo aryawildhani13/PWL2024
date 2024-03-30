@@ -23,7 +23,7 @@ Route::get('/', function () {
 
 Route::resource('kategori', KategoriController::class);
 Route::resource('level', LevelController::class);
-Route::resource('m_user', POSController::class);
+Route::resource('user', UserController::class);
 
 // Route::get('/level', [LevelController::class, 'index'])->name('level');
 // Route::get('/level/create', [LevelController::class, 'create'])->name('level.create');

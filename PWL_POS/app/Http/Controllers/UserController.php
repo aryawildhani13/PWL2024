@@ -136,12 +136,12 @@ class UserController extends Controller
         
         // UserModel::insert($data);
 
-        return $datatable->render('m_user.index');
+        return $datatable->render('user.index');
 
 
     }
     public function create() {
-        return view('m_user.create');
+        return view('user.create');
     }
 
     public function store(StoreUserRequest $request) {
@@ -151,7 +151,7 @@ class UserController extends Controller
 
     public function edit($id) {
         $user = UserModel::find($id);
-        return view('m_user.edit', ['data' => $user]);
+        return view('user.edit', ['data' => $user]);
     }
 
     public function update(Request $request, $id) {

@@ -71,7 +71,7 @@ class UserModelDataTable extends DataTable
             Column::make('level_id'),
             Column::make('username'),
             Column::make('nama'),
-            Column::make('password'),
+            // Column::make('password'),
             Column::make('created_at'),
             Column::make('updated_at'),
         ];
