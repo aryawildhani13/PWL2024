@@ -9,8 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Monolog\Level;
 
-class LevelController extends Controller
-{
+class LevelController extends Controller {
     public function index(LevelModelDataTable $datatable) {
         // DB::insert('insert into m_level(level_kode, level_nama, created_at) values(?, ?, ?)', ['CUS', 'Pelanggan', now()]);
         // return 'Insert data baru berhasil';
@@ -20,11 +19,10 @@ class LevelController extends Controller
 
         // $row = DB::delete('delete from m_level where level_kode = ?', ['CUS']);
         // return 'Delete data berhasil. Jumlah data yang dihapus: ' . $row . ' baris';
-
         // $data = DB::select('select * from m_level');
-        // return view('level', ['data' => $data]);
-        return $datatable->render('level.index');
+        // return view('level.index', ['data' => $data]);
 
+        return $datatable->render('level.index');
     }
 
     public function create() {
@@ -51,6 +49,4 @@ class LevelController extends Controller
         LevelModel::destroy($id);
         return redirect('/level');
     }
-
-    
 }

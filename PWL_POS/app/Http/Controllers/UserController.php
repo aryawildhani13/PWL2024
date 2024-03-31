@@ -8,10 +8,8 @@ use App\Models\UserModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
-class UserController extends Controller
-{
+class UserController extends Controller {
     public function index(UserModelDataTable $datatable) {
-        
         // $data = [
         //     'level_id' => 2,
         //     'username' => 'manager_tiga',
@@ -19,11 +17,13 @@ class UserController extends Controller
         //     'password' => Hash::make('12345'),
         // ];
         // UserModel::create($data);
-        
-        
+
+        // $user = UserModel::all();
+
         // $user = UserModel::find(1);
         // $user = UserModel::where('level_id', 1)->first();
         // $user = UserModel::firstWhere('level_id', 1);
+
         // $user = UserModel::findOr(20, ['username', 'nama'], function () {
         //     abort(404);
         // });
@@ -33,7 +33,6 @@ class UserController extends Controller
         // $user = UserModel::where('username', 'manager9')->firstOrFail();
 
         // $user = UserModel::where('level_id', 2)->count();
-        // dd($user); 
 
         // $user = UserModel::firstOrCreate(
         //     [
@@ -42,7 +41,7 @@ class UserController extends Controller
         //     ],
         // );
 
-        //  $user = UserModel::firstOrCreate(
+        // $user = UserModel::firstOrCreate(
         //     [
         //         'username' => 'manager22',
         //         'nama' => 'Manager Dua Dua',
@@ -51,22 +50,21 @@ class UserController extends Controller
         //     ],
         // );
 
-        
         // $user = UserModel::firstOrNew([
         //     'username' => 'manager',
         //     'nama' => 'Manager'
         // ]);
 
-        //   $user = UserModel::firstOrNew([
+        // $user = UserModel::firstOrNew([
         //     'username' => 'manager33',
         //     'nama' => 'Manager Tiga Tiga',
         //     'password' => Hash::make('12345'),
         //     'level_id' => 2
         // ]);
+
         // $user->save();
 
-
-        // ==========================================
+        // ----------------------------------------------
 
         // $user = UserModel::create([
         //     'level_id' => 2,
@@ -94,8 +92,8 @@ class UserController extends Controller
 
         // dd($user->isDirty());
 
-        // ==========================================
-        
+        // ----------------------------------------------
+
         // $user = UserModel::create([
         //     'level_id' => 2,
         //     'username' => 'manager11',
@@ -113,33 +111,15 @@ class UserController extends Controller
         // $user->wasChanged('nama');
         // dd($user->wasChanged(['nama', 'username']));
 
+        // ----------------------------------------------
 
-        // ==========================================
-        
+        // $user = UserModel::all();
         // $user = UserModel::with('level')->get();
-        // return view ('user', ['data' => $user]);
-  
-        
-        // $data = [
-        //     'nama'=>'Pelanggan Pertama',
-        // ];
-        // UserModel :: where('username', 'customer-1')->update($data);
-
-        // dd(UserModel :: where('username', 'customer-1')->get());
-
-        // $data = [
-        //     'username' => 'customer-1',
-        //     'nama' => 'Pelanggan',
-        //     'password' => Hash::make('12345'),
-        //     'level_id' => 4
-        // ];
-        
-        // UserModel::insert($data);
+        // return view('user.index', ['data' => $user]);
 
         return $datatable->render('user.index');
-
-
     }
+
     public function create() {
         return view('user.create');
     }
@@ -169,6 +149,4 @@ class UserController extends Controller
         $user->delete();
         return redirect('/user');
     }
-
-
 }
