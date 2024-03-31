@@ -1,4 +1,4 @@
-@extends('layouts.template')
+@extends('layout.app')
 
 @section('subtitle', 'Level')
 @section('content_header_title', 'Level')

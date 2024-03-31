@@ -1,4 +1,4 @@
-@extends('layouts.template')
+@extends('layout.app')
 @section('title', 'Tambah Level')
 @section('content_header')
     <h1>Tambah Level</h1>

@@ -1,4 +1,4 @@
-@extends('layouts.template')
+@extends('layout.app')
 @section('title', 'Edit Level')
 @section('content_header')
     <h1>Edit Level</h1>
