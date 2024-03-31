@@ -1,4 +1,4 @@
-@extends('adminlte::page')
+@extends('layouts.template')
 @section('title', 'Edit Level')
 @section('content_header')
     <h1>Edit Level</h1>
