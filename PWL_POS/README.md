@@ -136,6 +136,33 @@
 4 dan 5 ![Tugas 4 dan 5 Controller](https://github.com/aryawildhani13/PWL2024/assets/91382582/d92e0816-f4dd-4523-b0af-d6fe493745b2)
 
 
+## Pertemuan 7
+
+Pertemuan 7 - Pertanyaan
+
+# 1. Apa perbedaan frontend template dengan backend template?
+- keduanya pemiliki konsep yang berbeda dalam pengembangan perangkat lunak, terutama dalam konteks web
+	a. Frontend template, merupakan template yang digunakan untuk mengatur tampilan dan interaksi pengguna pada sisi depan atau front.  biasanya ditulis dengan bahasa HTML, CSS dan JS, contohnya adalah booststap, foundation, dan materialize
+	b. Backend template, digunakan untuk menghasilkan tampilan dinamis pada sisi server atau belakang, dimana menggunakan bahasa PHP,ataupun Python, pada backend birisi logika bisnis, akses basisdata, serta integrasi layanan eksternal. backend template menghasilkan HTML atau format lain yang diperlukan oleh browser untuk menampilkan halaman web kepada pengguna
+
+maka dari itu, perbedaannya dapat dilihat dari lokasi penggunaan, bahasa, serta teknologi yang digunakan.
+
+# 2. Apakah layouting itu penting dalam membangun sebuah website?
+
+Tentu saja, layouting adalah aspek krusial dalam pembangunan sebuah website karena mempengaruhi pengalaman pengguna, pemahaman konten, responsivitas, dan branding. Dengan tata letak yang baik, pengguna dapat dengan mudah menavigasi dan memahami hierarki konten, sementara responsivitasnya memastikan situs web terlihat baik di berbagai perangkat. Selain itu, tata letak yang konsisten juga membantu membangun citra merek yang kuat dan meningkatkan identitas visual situs web, serta dapat berkontribusi pada optimasi mesin pencari dengan memastikan indeksasi yang baik oleh mesin pencari seperti Google.
+
+# 3. Jelaskan fungsi dari komponen laravel blade berikut : @include(), @extend(), @section(), @push(), @yield(), dan @stack()
+
+- @include(), digunakan untuk menyertakan konten dari view lain, dalam artian memungkinkan pengguna menggunakan kembali kode dan memisahkan logika aplikasi menjadi bagian yang lebih kecil
+- @extend(), digunakan untuk memperluas layout utama kepada sub layout atau file lainya. dalam artian dapat digunakan untuk meletakkan elemen yang sama di berbagai halaman tanpa perlu menuliskan ulang
+- @section(), pendefinisian bagian dari konten di dalam view
+- @push(), menambahkan konten kedaalam stack, biasanya digubakan dalam kombinasi stack() untuk menambah konten ke dalam bagian spesifik dari layout
+- @yield() konponen ini berguna untuk menampilkan konten yang didefinisikan di dalam section()
+- @stack(), digunakan dalam menampilkan konten yang sudah ditambahkan ke stack menggunakan push, pada bagian ini berguna ketika ingin menambahkan konten ke salam bagian bagian tertentu
+
+# 4. Apa fungsi dan tujuan dari variable $activeMenu ?
+
+-berguna untuk menentukan item menu mana yang aktif atau dipilih oleh pengguna serta membantu pengguna dalam navigasi dan memahami lokasi mereka dalam web
 
 
 
