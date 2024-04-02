@@ -5,6 +5,8 @@ use App\Http\Controllers\LevelController;
 use App\Http\Controllers\WelcomeController;
 use App\Http\Controllers\BarangController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\StokController;
+use App\Http\Controllers\PenjualanController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -66,4 +68,26 @@ Route::group(['prefix' => 'barang'], function () {
     Route::get('/{id}/edit', [BarangController::class, 'edit']);
     Route::put('/{id}', [BarangController::class, 'update']);
     Route::delete('/{id}', [BarangController::class, 'destroy']);
+});
+
+Route::group(['prefix' => 'stok'], function(){
+    Route::get('/', [StokController::class, 'index'])->name('stok.index');
+    Route::get('/list', [StokController::class, 'list'])->name('stok.list');
+    Route::get('/create', [StokController::class, 'create'])->name('stok.create');
+    Route::post('/', [StokController::class, 'store'])->name('stok.store');
+    Route::get('/{id}', [StokController::class, 'show'])->name('stok.show');
+    Route::get('/{id}/edit', [StokController::class, 'edit'])->name('stok.edit');
+    Route::put('/{id}', [StokController::class, 'update'])->name('stok.update');
+    Route::delete('/{id}', [StokController::class, 'destroy'])->name('stok.destroy'); 
+});
+
+Route::group(['prefix' => 'penjualan'], function(){
+    Route::get('/', [PenjualanController::class, 'index'])->name('penjualan.index');
+    Route::get('/list', [PenjualanController::class, 'list'])->name('penjualan.list');
+    Route::get('/create', [PenjualanController::class, 'create'])->name('penjualan.create');
+    Route::post('/', [PenjualanController::class, 'store'])->name('penjualan.store');
+    Route::get('/{id}', [PenjualanController::class, 'show'])->name('penjualan.show');
+    Route::get('/{id}/edit', [PenjualanController::class, 'edit'])->name('penjualan.edit');
+    Route::put('/{id}', [PenjualanController::class, 'update'])->name('penjualan.update');
+    Route::delete('/{id}', [PenjualanController::class, 'destroy'])->name('penjualan.destroy'); 
 });
